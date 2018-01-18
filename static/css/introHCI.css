@@ -34,8 +34,8 @@ body {
 }
 
 .project {
-     margin-left: 1px;
+     margin-left: 20px;
      background-color: #deabfa;
-     padding: 1px;
-     width: 1px;
+     padding: 50px;
+     width: 500px;
 }
